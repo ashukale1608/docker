@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules
+
+*.txt
+# npm-debug.log
+
+# # Logs
+# logs
+# *.log
+# npm-debug.log*
+
+# # Docker files
+# Dockerfile
+# docker-compose.yml
+
+# # Editor directories and files
+# .idea
+# .vscode
+# *.swp
+
+# # Operating system files
+# .DS_Store
+# Thumbs.db
+
+# # Other
+# .env
+# *.md
+# .git
+# .gitignore
